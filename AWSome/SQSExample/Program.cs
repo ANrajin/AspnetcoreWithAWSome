@@ -3,7 +3,7 @@ using SQSExample;
 
 Console.WriteLine("Amazon Simple Queue Service");
 
-SQSOperation operation = new SQSOperation();
+var operation = new SqsOperation();
 
 /*
  * ==============================================
